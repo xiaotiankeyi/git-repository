@@ -1,0 +1,9 @@
+string,
+list
+tuple
+number
+adb start--server
+adb kill--server
+adb shell pm list package -3
+adb shell ps
+adb shell ps|grep packagename 
