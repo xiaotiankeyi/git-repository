@@ -6,4 +6,13 @@ adb start--server
 adb kill--server
 adb shell pm list package -3
 adb shell ps
-adb shell ps|grep packagename 
+adb shell ps|grep packagename
+adb shell kill packagename
+adb install -r package
+adb uninstall package
+adb devices
+ls
+mkdir
+ipconfig
+clase
+select
