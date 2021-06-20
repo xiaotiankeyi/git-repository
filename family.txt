@@ -35,4 +35,9 @@ insert
 create
 delete
 update
-
+zero
+one
+two
+three
+four
+five
