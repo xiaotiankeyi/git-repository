@@ -15,4 +15,24 @@ dad
 grandmother
 grandfather
 grandparent
+friend
+girl
+baby
+picture
+library
+hat
+bookcase
+those
+these
+must
+middle
+school
+quilt
+morning
+evening
+thanks
+insert
+create
+delete
+update
 
