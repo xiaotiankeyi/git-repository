@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 welcome
 birthday
 tink about
@@ -5,3 +6,10 @@ well
 wich
 strawberry
 hamburget
+=======
+library  图书馆
+banana
+telephone
+seven
+sixi
+>>>>>>> div
